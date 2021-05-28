@@ -122,4 +122,3 @@ Markdown est juste un texte normal avec quelques caractères non alphabétiques 
     </script>
 </body>
 </html>
-html```
