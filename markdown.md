@@ -79,6 +79,8 @@ Markdown est juste un texte normal avec quelques caractères non alphabétiques 
     <a href="https://github.com/juju2307/exercice-markdown/blob/1996b0b89f52d5cfae1e0929f363b274181d64fe/README.md">https://github.com/juju2307/exercice-markdown/blob/1996b0b89f52d5cfae1e0929f363b274181d64fe/README.md</a>
     <img src="https://miro.medium.com/max/3000/1*HB9Cy4zmmggm5QUKAOO71g.png" alt="Image markdown">
 
+    <button onclick="clickMe()">Click Me :)</button>
+
     <ul>
         <li>Test 1</li>
         <li>Test 2</li>
@@ -112,6 +114,12 @@ Markdown est juste un texte normal avec quelques caractères non alphabétiques 
     <a href="http://becode.org/">Becode</a>
 
     <img src="https://user-images.githubusercontent.com/57039079/67622173-2b835e80-f807-11e9-821d-bfbb688bc329.gif" alt="Image markdown">
+
+    <script>
+        function clickMe() {
+            alert("Bonjour ! :)")
+        }
+    </script>
 </body>
 </html>
-```
+html```
