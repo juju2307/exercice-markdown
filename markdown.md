@@ -1,12 +1,25 @@
+
 [Lien README.md](https://github.com/juju2307/exercice-markdown/blob/1996b0b89f52d5cfae1e0929f363b274181d64fe/README.md)
-# Hello world
-## La vie est belle
-### Le ciel est bleu
+
+# Exercice MarkDown
+
+## Objectif du MarkDown
+
+"Le Markdown est une syntaxe légère et facile à utiliser pour styliser toutes les formes d'écriture sur la plate-forme GitHub."
+
+## Description MarkDown
+
+"Le language de balisage Markdown est un moyen de styliser du texte sur le Web. 
+Vous contrôlez l'affichage du document; styliser des mots en
+gras ou italique, ajouter des images et créer des listes ne sont que quelques-unes des choses que nous pouvons faire avec le Markdown. 
+La plupart du temps,
+Markdown est juste un texte normal avec quelques caractères non alphabétiques ajoutés, comme # ou *."
+
 > Liste non-ordonnée
 
-* titre1
-* titre2
-* titre3
+* Item 1
+* Item 2
+* Item 3
 
 > Liste ordonnée
 
@@ -29,6 +42,12 @@
     * Item xy
     * Item xz
 
+> Titres et sous-titres
+
+## Hello World
+### La vie est belle
+#### Le ciel est bleu
+
 > Quelques liens
 
 [Open Classroom](https://openclassrooms.com/fr/)
@@ -37,11 +56,15 @@
 
 [Grafikart](https://grafikart.fr/)
 
-> Images
+> Images statique
 
 ![Image markdown](https://miro.medium.com/max/3000/1*HB9Cy4zmmggm5QUKAOO71g.png)
 
+> Image animée
+
 ![Image animated](https://user-images.githubusercontent.com/57039079/67622173-2b835e80-f807-11e9-821d-bfbb688bc329.gif)
+
+> Code (HTML)
 
 ```html
 <!DOCTYPE html>
@@ -92,4 +115,3 @@
 </body>
 </html>
 ```
-
