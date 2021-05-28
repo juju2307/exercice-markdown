@@ -1,5 +1,7 @@
 [Lien README.md](https://github.com/juju2307/exercice-markdown/blob/1996b0b89f52d5cfae1e0929f363b274181d64fe/README.md)
-
+# Hello world
+## La vie est belle
+### Le ciel est bleu
 > Liste non-ordonnée
 
 * titre1
@@ -90,3 +92,4 @@
 </body>
 </html>
 ```
+
