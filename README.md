@@ -1,11 +1,11 @@
 [Lien markdown.md](https://github.com/juju2307/exercice-markdown/blob/main/markdown.md)
 
-# Exercice MarkDown
+# MarkDown exercise
 
-## Description du référentiel
-Exercice en équipe sur le Markdown
+## Description of the repository
+Team exercise on the Markdown
 
-## Membres de l'équipe de travail
+## Members of the work team
 
 1. Adrien
 2. Abdelilah
